@@ -1,0 +1,15 @@
+var a,b,c,d,f,g;
+begin
+  a := 2;
+  b := 3;
+  c := 5;
+  d := 6;
+  f := 0;
+  g := 8;
+  if ( (a<b ||c<d) && (f && g) )
+    a := 20; 
+  elif (0) b := 30;
+  else  b := 40;
+
+    return 0;
+end.

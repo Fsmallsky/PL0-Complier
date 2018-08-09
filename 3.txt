@@ -1,0 +1,9 @@
+var i,j,k,a,b,c,d;
+begin
+j:=0;
+i:=1;
+   if(i > j && 2 || 3 = 4)
+       k := 3;
+   else k := 4;
+   return 0;
+end.
